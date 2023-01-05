@@ -1,6 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
+Bitte sende ein eMail an die Lieblingskollegin
 
 ## Guidelines
 
